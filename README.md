@@ -14,7 +14,7 @@ class ThisWillActuallyRun {
 		String home() {
 				"Hola Mundo Spring Boot 2.x"
 		}
-}
+	}
 3.- Ejecutar
 $ spring run app.groovy
 
